@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fortune Teller</string>
+    <string name="intro">My github is kevinyan215. My Student Id is 008493875. Enjoy.</string>
+    <string name="button">What\'s my fortune?</string>
+    <string name="display">And it is.......</string>
+
+    <string-array name="fortunes">
+        <item name="fortune1">You will have an excellent day.</item>
+        <item name="fortune2">Avoid walking on cracks. Don\'t break your back.</item>
+        <item name="fortune3">Win a game. Get some fame.</item>
+        <item name="fortune4">Say Hello to a stranger. Fend off danger.</item>
+        <item name="fortune5">Go to the gym and you\'ll get buff.</item>
+        <item name="fortune6">See advising and you\'ll graduate.</item>
+        <item name="fortune7">Check out the SU. It\'s cool.</item>
+        <item name="fortune8">Read a book. Get smarter.</item>
+        <item name="fortune9">Drink lots of water. It\'s good for you.</item>
+        <item name="fortune10">Find a job.</item>
+    </string-array>
+</resources>
